@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf6ff5b9-f2b1-40ef-8eb7-b728d6877153" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="bf6ff5b9-f2b1-40ef-8eb7-b728d6877153" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/automation.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/login_tests.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,26 +20,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TvZXFjojqizeVAZhd5vFdMtGJI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/utilities" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oburenok\PycharmProjects\LetsCodeIt\tests" />
       <recent name="C:\Users\oburenok\PycharmProjects\LetsCodeIt\utilities" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="pytest in login_tests.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -58,6 +61,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,6 +85,25 @@
       <updated>1574342566123</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1575995148025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-144.1920.1040@0.0.1920.1040" timestamp="1575995148025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
