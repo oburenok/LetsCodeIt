@@ -54,7 +54,7 @@ class LoginPage(SeleniumDriver):
     def verifyLoginSuccesful(self):
         result = self.isElementPresent(".//span[@class='navbar-current-user' and text()='Test User']",
                                        locatorType="xpath")
-        return result
+        return False
 
     def verifyLoginFailed(self):
         result = self.isElementPresent("//div[contains(text(),'Invalid email or password.')]", locatorType="xpath")
@@ -66,3 +66,9 @@ class LoginPage(SeleniumDriver):
 
         # Click search button
         self.elementClick(self._search_button)
+
+    def verifyTitle(self):
+        if "Let's Kode It" in self.getTitle():
+            return True
+        else:
+            return False

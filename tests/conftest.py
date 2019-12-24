@@ -16,7 +16,7 @@ def oneTimeSetUp(request, browser):
     print("ONETIMESETUP before")
     wdf = WebDriverFactory(browser)
     driver = wdf.getWebDriverInctanse()
-    
+
     if request.cls is not None:
         request.cls.driver = driver
 
