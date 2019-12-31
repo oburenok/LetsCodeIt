@@ -10,15 +10,16 @@ Example:
 from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as cl
 import logging
+from traceback import print_stack
 
-class TestStatus(SeleniumDriver):
+class CheckStatus(SeleniumDriver):
 
     log = cl.customLogger(logging.INFO)
     def __init__(self, driver):
         """
         Inits CheckPoint class
         """
-        super(TestStatus, self).__init__(driver)
+        super(CheckStatus, self).__init__(driver)
         self.resultList = []
 
     def setResult(self, result, resultMessage):
@@ -30,12 +31,16 @@ class TestStatus(SeleniumDriver):
                 else:
                     self.resultList.append("FAIL")
                     self.log.info("### VERIFICATION FAILED ::  " + resultMessage)
+                    self.screenShot(resultMessage)
             else:
                 self.resultList.append("FAIL")
                 self.log.error("### VERIFICATION FAILED ::  " + resultMessage)
+                self.screenShot(resultMessage)
         except:
             self.resultList.append("FAIL")
             self.log.error("### Exception Occurred !!!")
+            self.screenShot(resultMessage)
+            print_stack()
 
     def mark(self, result, resultMessage):
         """

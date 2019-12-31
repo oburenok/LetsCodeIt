@@ -4,13 +4,10 @@
     <list default="true" id="bf6ff5b9-f2b1-40ef-8eb7-b728d6877153" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/webdriverfactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/webdriverfactory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/home/automation.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/home/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/home/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/login_tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/custom_logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/custom_logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/teststatus.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/teststatus.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,11 +101,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1577204184059">
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1577787453454">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1265" y="180" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577115457280" />
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-162.1920.1040@0.0.1920.1040" timestamp="1577115199134" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-162.1920.1040@0.0.1920.1040" timestamp="1577787453454" />
     <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-201.1920.1040@0.0.1920.1040" timestamp="1577204184059" />
     <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-144.1920.1040@0.0.1920.1040" timestamp="1576517650476" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577207518661">
