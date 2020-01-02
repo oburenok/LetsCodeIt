@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf6ff5b9-f2b1-40ef-8eb7-b728d6877153" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/login_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/home/automation.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/home/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/home/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/login_tests.py" afterDir="false" />
@@ -101,13 +101,49 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1577787453454">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1577983320772">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
     </state>
-    <state x="-1265" y="180" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577115457280" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577983320772" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1577983320772">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577983320772" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1577983320772">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577983320772" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1577983320772">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577983320772" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1577983323212">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577983323212" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1577983323212">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577983323212" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1577983323212">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577983323212" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1577983323212">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577983323212" />
+    <state x="-1265" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1577976757119">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state x="-1265" y="180" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577976757119" />
     <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-162.1920.1040@0.0.1920.1040" timestamp="1577787453454" />
     <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.-201.1920.1040@0.0.1920.1040" timestamp="1577204184059" />
     <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-144.1920.1040@0.0.1920.1040" timestamp="1576517650476" />
+    <state x="-1151" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577801126922">
+      <screen x="-1920" y="-162" width="1920" height="1040" />
+    </state>
+    <state x="-1151" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.-162.1920.1040@-1920.-162.1920.1040" timestamp="1577801126922" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577207518661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

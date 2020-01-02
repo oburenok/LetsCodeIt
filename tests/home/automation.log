@@ -1,116 +1,31 @@
-31/12/2019 15:25:11  - LoginPage - INFO: Element Found with locator 'Login' and locator type 'link'
-31/12/2019 15:25:11  - LoginPage - INFO: Clicked on the element with locator 'Login' and locator type 'link'
-31/12/2019 15:25:13  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:25:13  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:25:13  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:25:13  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'invalid@email.com'
-31/12/2019 15:25:13  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:25:14  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
-31/12/2019 15:25:14  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
-31/12/2019 15:25:17  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
-31/12/2019 15:25:17  - LoginPage - INFO: Element Found with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath'
-31/12/2019 15:25:17  - LoginPage - INFO: Element with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath' is present
-31/12/2019 15:25:17  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying invalid login
-31/12/2019 15:25:22  - LoginPage - INFO: Element not found with locator 'Login' and locator type 'link'
-31/12/2019 15:25:22  - LoginPage - INFO: Cannot click on the element with locator 'Login' and locator type 'link'
-31/12/2019 15:25:22  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:25:22  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:25:22  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:25:22  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'test@email.com'
-31/12/2019 15:25:22  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:25:22  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
-31/12/2019 15:25:22  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
-31/12/2019 15:25:26  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
-31/12/2019 15:25:26  - LoginPage - INFO: Element Found with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath'
-31/12/2019 15:25:26  - LoginPage - INFO: Element with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath' is present
-31/12/2019 15:25:26  - CheckStatus - INFO: ### VERIFICATION FAILED ::  Verifying valid login
-31/12/2019 15:25:26  - CheckStatus - INFO: Screenshot saved to directory: C:\Users\oburenok\PycharmProjects\LetsCodeIt\base\..\..\screenshots\Verifying_valid_login_31-12-19_15-25-26.png
-31/12/2019 15:25:26  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying  Title in tab
-31/12/2019 15:25:26  - CheckStatus - ERROR: Valid Login Test### TEST FAILED
-31/12/2019 15:27:25  - LoginPage - INFO: Element Found with locator 'Login' and locator type 'link'
-31/12/2019 15:27:25  - LoginPage - INFO: Clicked on the element with locator 'Login' and locator type 'link'
-31/12/2019 15:27:27  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:27:27  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:27:27  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:27:27  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'invalid@email.com'
-31/12/2019 15:27:27  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:27:27  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
-31/12/2019 15:27:27  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
-31/12/2019 15:27:29  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
-31/12/2019 15:27:29  - LoginPage - INFO: Element Found with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath'
-31/12/2019 15:27:29  - LoginPage - INFO: Element with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath' is present
-31/12/2019 15:27:29  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying invalid login
-31/12/2019 15:27:34  - LoginPage - INFO: Element not found with locator 'Login' and locator type 'link'
-31/12/2019 15:27:34  - LoginPage - INFO: Cannot click on the element with locator 'Login' and locator type 'link'
-31/12/2019 15:27:34  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:27:34  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:27:34  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:27:34  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'test@email.com'
-31/12/2019 15:27:34  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:27:34  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
-31/12/2019 15:27:34  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
-31/12/2019 15:27:40  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
-31/12/2019 15:27:45  - LoginPage - INFO: Element not found with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath'
-31/12/2019 15:27:45  - LoginPage - INFO: Element with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath' is not present
-31/12/2019 15:27:45  - CheckStatus - INFO: ### VERIFICATION FAILED ::  Verifying valid login
-31/12/2019 15:27:45  - CheckStatus - INFO: Screenshot saved to directory: C:\Users\oburenok\PycharmProjects\LetsCodeIt\base\..\screenshots\Verifying_valid_login_31-12-19_15-27-45.png
-31/12/2019 15:27:45  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying  Title in tab
-31/12/2019 15:27:45  - CheckStatus - ERROR: Valid Login Test### TEST FAILED
-31/12/2019 15:28:33  - LoginPage - INFO: Element Found with locator 'Login' and locator type 'link'
-31/12/2019 15:28:33  - LoginPage - INFO: Clicked on the element with locator 'Login' and locator type 'link'
-31/12/2019 15:28:36  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:28:36  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:28:36  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:28:36  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'invalid@email.com'
-31/12/2019 15:28:36  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:28:36  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
-31/12/2019 15:28:36  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
-31/12/2019 15:28:38  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
-31/12/2019 15:28:38  - LoginPage - INFO: Element Found with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath'
-31/12/2019 15:28:38  - LoginPage - INFO: Element with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath' is present
-31/12/2019 15:28:38  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying invalid login
-31/12/2019 15:28:43  - LoginPage - INFO: Element not found with locator 'Login' and locator type 'link'
-31/12/2019 15:28:43  - LoginPage - INFO: Cannot click on the element with locator 'Login' and locator type 'link'
-31/12/2019 15:28:43  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:28:43  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:28:44  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:28:44  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'test@email.com'
-31/12/2019 15:28:44  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:28:44  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
-31/12/2019 15:28:44  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
-31/12/2019 15:28:47  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
-31/12/2019 15:28:47  - LoginPage - INFO: Element Found with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath'
-31/12/2019 15:28:47  - LoginPage - INFO: Element with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath' is present
-31/12/2019 15:28:47  - CheckStatus - INFO: ### VERIFICATION FAILED ::  Verifying valid login
-31/12/2019 15:28:48  - CheckStatus - INFO: Screenshot saved to directory: C:\Users\oburenok\PycharmProjects\LetsCodeIt\base\..\screenshots\Verifying_valid_login_31-12-19_15-28-47.png
-31/12/2019 15:28:48  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying  Title in tab
-31/12/2019 15:28:48  - CheckStatus - ERROR: Valid Login Test### TEST FAILED
-31/12/2019 15:32:28  - LoginPage - INFO: Element Found with locator 'Login' and locator type 'link'
-31/12/2019 15:32:28  - LoginPage - INFO: Clicked on the element with locator 'Login' and locator type 'link'
-31/12/2019 15:32:32  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:32:32  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:32:32  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:32:33  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'invalid@email.com'
-31/12/2019 15:32:33  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:32:33  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
-31/12/2019 15:32:33  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
-31/12/2019 15:32:35  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
-31/12/2019 15:32:35  - LoginPage - INFO: Element Found with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath'
-31/12/2019 15:32:35  - LoginPage - INFO: Element with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath' is present
-31/12/2019 15:32:35  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying invalid login
-31/12/2019 15:32:40  - LoginPage - INFO: Element not found with locator 'Login' and locator type 'link'
-31/12/2019 15:32:40  - LoginPage - INFO: Cannot click on the element with locator 'Login' and locator type 'link'
-31/12/2019 15:32:40  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:32:40  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:32:40  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
-31/12/2019 15:32:40  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'test@email.com'
-31/12/2019 15:32:40  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
-31/12/2019 15:32:40  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
-31/12/2019 15:32:40  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
-31/12/2019 15:32:44  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
-31/12/2019 15:32:44  - LoginPage - INFO: Element Found with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath'
-31/12/2019 15:32:44  - LoginPage - INFO: Element with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath' is present
-31/12/2019 15:32:44  - CheckStatus - INFO: ### VERIFICATION FAILED ::  Verifying valid login
-31/12/2019 15:32:44  - CheckStatus - INFO: Screenshot saved to directory: C:\Users\oburenok\PycharmProjects\LetsCodeIt\base\..\screenshots\Verifying_valid_login_31-12-19_15-32-44.png
-31/12/2019 15:32:44  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying  Title in tab
-31/12/2019 15:32:44  - CheckStatus - ERROR: Valid Login Test### TEST FAILED
+02/01/2020 19:16:10  - LoginPage - INFO: Element Found with locator 'Login' and locator type 'link'
+02/01/2020 19:16:10  - LoginPage - INFO: Clicked on the element with locator 'Login' and locator type 'link'
+02/01/2020 19:16:16  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
+02/01/2020 19:16:16  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
+02/01/2020 19:16:16  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
+02/01/2020 19:16:16  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'invalid@email.com'
+02/01/2020 19:16:16  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
+02/01/2020 19:16:16  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
+02/01/2020 19:16:16  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
+02/01/2020 19:16:18  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
+02/01/2020 19:16:18  - LoginPage - INFO: Element Found with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath'
+02/01/2020 19:16:18  - LoginPage - INFO: Element with locator '//div[contains(text(),'Invalid email or password.')]' and locator type 'xpath' is present
+02/01/2020 19:16:18  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying invalid login
+02/01/2020 19:16:23  - LoginPage - INFO: Element not found with locator 'Login' and locator type 'link'
+02/01/2020 19:16:23  - LoginPage - INFO: Cannot click on the element with locator 'Login' and locator type 'link'
+02/01/2020 19:16:23  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
+02/01/2020 19:16:23  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
+02/01/2020 19:16:23  - LoginPage - INFO: Element Found with locator 'user_email' and locator type 'id'
+02/01/2020 19:16:24  - LoginPage - INFO: Value was entered in field with locator 'user_email', locator type 'id', value 'test@email.com'
+02/01/2020 19:16:24  - LoginPage - INFO: Element Found with locator 'user_password' and locator type 'id'
+02/01/2020 19:16:24  - LoginPage - INFO: Value was entered in field with locator 'user_password', locator type 'id', value 'abcabc'
+02/01/2020 19:16:24  - LoginPage - INFO: Element Found with locator 'commit' and locator type 'name'
+02/01/2020 19:16:28  - LoginPage - INFO: Clicked on the element with locator 'commit' and locator type 'name'
+02/01/2020 19:16:28  - LoginPage - INFO: Element Found with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath'
+02/01/2020 19:16:28  - LoginPage - INFO: Element with locator './/span[@class='navbar-current-user' and text()='Test User']' and locator type 'xpath' is present
+02/01/2020 19:16:28  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying valid login
+02/01/2020 19:16:28  - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+02/01/2020 19:16:28  - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+02/01/2020 19:16:28  - Util - INFO: ### VERIFICATION CONTAINS !!!
+02/01/2020 19:16:28  - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL ::  Verifying  Title in tab
+02/01/2020 19:16:28  - CheckStatus - INFO: Valid Login Test ### TEST Successful
